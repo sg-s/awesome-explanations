@@ -2,6 +2,7 @@
 
 List of beautiful, explorable explanations of things. 
 
+
 1.  [Back to the future of handwriting automation](https://jackschaedler.github.io/handwriting-recognition/)
 2. [Explorable Explanations](http://explorableexplanations.com/)
 3. [Parable of the polygons](http://ncase.me/polygons/)
@@ -24,3 +25,5 @@ List of beautiful, explorable explanations of things.
 20. [Explorable Explanations](http://worrydream.com/ExplorableExplanations/)
 21. [Media for thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/)
 22. [Circles Sines Signals](https://github.com/jackschaedler/circles-sines-signals)
+23. [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
+24. [Hexagonal grids in game design](https://www.redblobgames.com/grids/hexagons/)
