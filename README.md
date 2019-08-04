@@ -1,6 +1,15 @@
 # awesome explanations 
 
-List of beautiful, explorable explanations of things. 
+List of beautiful explanations of how things work. 
+
+
+## Computing 
+
+25. [How OAuth2 works](https://stackoverflow.com/questions/4727226/how-does-oauth-2-protect-against-things-like-replay-attacks-using-the-security-t)
+
+## Maths
+
+22. [Circles Sines Signals](https://github.com/jackschaedler/circles-sines-signals)
 
 
 1.  [Back to the future of handwriting automation](https://jackschaedler.github.io/handwriting-recognition/)
@@ -24,6 +33,12 @@ List of beautiful, explorable explanations of things.
 19. [Apparatus](http://aprt.us/)
 20. [Explorable Explanations](http://worrydream.com/ExplorableExplanations/)
 21. [Media for thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/)
-22. [Circles Sines Signals](https://github.com/jackschaedler/circles-sines-signals)
+
 23. [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
 24. [Hexagonal grids in game design](https://www.redblobgames.com/grids/hexagons/)
+
+
+## Machine learning
+
+1. [Reccurrent Neural Nets](https://victorzhou.com/blog/intro-to-rnns/)
+2. [N-shot learning](https://blog.floydhub.com/n-shot-learning/)
