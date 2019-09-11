@@ -9,6 +9,9 @@ List of beautiful explanations of how things work.
 
 ## Maths
 
+
+1. [How floating point is broken, and why people use COBOL](https://medium.com/@bellmar/is-cobol-holding-you-hostage-with-math-5498c0eb428b)
+
 22. [Circles Sines Signals](https://github.com/jackschaedler/circles-sines-signals)
 
 
